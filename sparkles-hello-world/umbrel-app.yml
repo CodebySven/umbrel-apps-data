@@ -1,20 +1,20 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+name: First App
+tagline: Mijn eerste app software
 icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
+category: OwnSoftware
+version: "0.0.1"
+port: 4052
 description: >-
-  Add your app's description here.
+  Mijn eigen gemaakte software
 
 
-  You can also add newlines!
+  Om even uit te testen!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: CodebySven
+website: https://codebysven.ml
+submitter: Sven
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
